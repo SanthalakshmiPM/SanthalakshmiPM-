@@ -2,10 +2,11 @@
 
 <https://www.linkedin.com/in/santhalakshmi>
 
-<a href="https://linkedin.com/in/santhalakshmi" class="social-icon si-rounded si-small si-linkedin">
-    <i class="icon-linkedin"></i>
-    <i class="icon-linkedin"></i>
- </a>
+<p>
+  <a href="https://www.linkedin.com/santhalakshmi" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
 
 # Summary
 
