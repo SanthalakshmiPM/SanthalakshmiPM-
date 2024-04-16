@@ -46,7 +46,7 @@ methodologies, and user acceptance testing to optimize product delivery.
 
 **Key Achievements:**
 
-Redesigned wireless ordering flow, reducing in-store ordering time by 70%.
+* Redesigned wireless ordering flow, reducing in-store ordering time by 70%.
 
 Delivered single-bill experience for FirstNet and family customers, eliminating multiple bill complexities.
 
