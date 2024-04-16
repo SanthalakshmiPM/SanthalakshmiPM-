@@ -7,6 +7,7 @@ linkedin.com/in/santhalakshmi
 
 
 **Technical Product Manager**
+
 Highly accomplished Senior Technical Product Manager with 10+ years of experience driving customer-centric
 product development and delivery. Proven ability to lead autonomous and cross-functional teams, leveraging
 expertise in application architecture, software development, testing, and technical management. Adept at
