@@ -4,7 +4,7 @@ Santhalakshmi Ananthakrishnan
 linkedin.com/in/santhalakshmi
 
 # Summary
-**Summary**
+
 
 **Technical Product Manager**
 Highly accomplished Senior Technical Product Manager with 10+ years of experience driving customer-centric
