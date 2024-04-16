@@ -96,14 +96,14 @@ Roles and Responsibilities
 
 # Education
 
-Bharathidasan University
-Master of Computer Application
+**Master of Computer Application** - Bharathidasan University
 
-University of Madras
-Bachelor of Computer Science
+**Bachelor of Computer Science** - University of Madras
 
-Licenses & Certifications
+**Licenses & Certifications**
+
 Certified Product Owner 
+
 Certified Scrum Professional®-ScrumMaster
 
 # Skills
