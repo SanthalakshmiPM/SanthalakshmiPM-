@@ -33,7 +33,7 @@ Cloud Services, Google Cloud Platform
 
 # Experience
 
-**Technical Product Manager**
+**Role - Technical Product Manager**
 
 Pyramid Consulting, Inc
 Jan 2014 - Aug 2023 (9 years 8 months)
@@ -68,7 +68,7 @@ methodologies, and user acceptance testing to optimize product delivery.
 
 * Improved customer experience for lost shipped devices through product updates.
 
-**Product Owner**
+**Role -Product Owner**
 
 Pyramid Consulting, Inc
 Jan 2010 - Jan 2014 (4 years 1 month)
@@ -89,12 +89,13 @@ standards. Resolved cross-application dependencies and recommended technical inv
 
 * Collaborated with RTE to reduce technical debt and optimize product architecture.
 
-**System Analyst**
+**Role - System Analyst**
 
 Accenture
 Oct 2003 - Dec 2009 (6 years 3 months)
 
-Roles and Responsibilities
+**Roles and Responsibilities**
+
 * Java Development lead and Scrum Master
 * Full-stack Java developer
 
