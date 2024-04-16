@@ -95,8 +95,8 @@ Accenture
 Oct 2003 - Dec 2009 (6 years 3 months)
 
 Roles and Responsibilities
-• Team lead
-• Full-stack Java developer
+* Team lead
+* Full-stack Java developer
 
 # Education
 
@@ -112,6 +112,6 @@ Certified Scrum Professional®-ScrumMaster
 
 # Skills
 
-Product Management   •   Product Development   •   Product Design   •   Product Launch   •   Strategic Planning  
-•   Strategic Roadmaps  •   Data Analysis & Metrics   •   Customer Acquisition   •   Telecommunications   •   Agile & Waterfall Methodologies  •   Cross-functional Team Leadership
+• Product Management   •  Product Development   •  Product Design   •  Product Launch   •  Strategic Planning  
+•  Strategic Roadmaps  •  Data Analysis & Metrics   •  Customer Acquisition   •  Telecommunications   •  Agile & Waterfall Methodologies  •  Cross-functional Team Leadership
 
