@@ -33,6 +33,7 @@ Cloud Services, Google Cloud Platform
 
 Pyramid Consulting, Inc
 Jan 2014 - Aug 2023 (9 years 8 months)
+
 Product: AT&T Point-of-sale application for in-store and call-centers
 
 **Responsibilities:**
@@ -67,6 +68,7 @@ Improved customer experience for lost shipped devices through product updates.
 
 Pyramid Consulting, Inc
 Jan 2010 - Jan 2014 (4 years 1 month)
+
 Product: AT&T Point-of-sale application for in-store and call-centers
 
 **Responsibilities:**
