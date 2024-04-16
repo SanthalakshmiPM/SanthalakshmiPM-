@@ -3,18 +3,19 @@ Santhalakshmi Ananthakrishnan
 
 linkedin.com/in/santhalakshmi
 
-Summary
+#Summary
+**Summary**
 
-Technical Product Manager
+**Technical Product Manager**
 Highly accomplished Senior Technical Product Manager with 10+ years of experience driving customer-centric
 product development and delivery. Proven ability to lead autonomous and cross-functional teams, leveraging
 expertise in application architecture, software development, testing, and technical management. Adept at
 utilizing Agile and SAFe Agile methodologies to deliver impactful solutions. Possesses strong interpersonal and
 communication skills, fostering collaborative environments and building stakeholder consensus.
 
-Key Skills & Competencies
+**Key Skills & Competencies**
 
-Product Management: Product Development, Road mapping & Release Planning, Product Prioritization, Customer
+**Product Management:** Product Development, Road mapping & Release Planning, Product Prioritization, Customer
 Research, Data Analysis, Requirement Analysis, Business & Product Vision Alignment
 Agile Expertise: Product Owner, Scrum Master, Sprint & Release Planning, User Stories, Backlog Management,
 Daily Standups, Retrospectives
@@ -23,14 +24,14 @@ Sessions, Stakeholder Management
 Technical Acumen: Software Development & Testing, SDLC Methodologies, Integrations & Innovation, AWS
 Cloud Services, Google Cloud Platform
 
-Experience
+**Experience**
 
 Technical Product Manager
 Pyramid Consulting, Inc
 Jan 2014 - Aug 2023 (9 years 8 months)
 Product: AT&T Point-of-sale application for in-store and call-centers
 
-Responsibilities:
+**Responsibilities:**
 Collaborated with clients, stakeholders, designers, and developers to deliver solutions driving
 sales growth in retail and customer care channels. Partnered with business sponsors and product
 management teams on large-scale solutions for FirstNet sales and service teams. Managed product
