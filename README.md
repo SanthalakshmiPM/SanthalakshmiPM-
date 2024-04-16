@@ -48,21 +48,21 @@ methodologies, and user acceptance testing to optimize product delivery.
 
 * Redesigned wireless ordering flow, reducing in-store ordering time by 70%.
 
-Delivered single-bill experience for FirstNet and family customers, eliminating multiple bill complexities.
+* Delivered single-bill experience for FirstNet and family customers, eliminating multiple bill complexities.
 
-Migrated 500,000+ FirstNet subscribers to a new account structure.
+* Migrated 500,000+ FirstNet subscribers to a new account structure.
 
-Built solution for uninterrupted service for 4,000+ Pacific and Caribbean FirstNet customers.
+* Built solution for uninterrupted service for 4,000+ Pacific and Caribbean FirstNet customers.
 
-Delivered “buy online pickup in-store” experience for FirstNet products.
+* Delivered “buy online pickup in-store” experience for FirstNet products.
 
-Streamlined FirstNet Agency paid wireless activation, reducing activation time by 98%.
+* Streamlined FirstNet Agency paid wireless activation, reducing activation time by 98%.
 
-Delivered end-to-end solution to onboard 1.5 million FirstNet customers.
+* Delivered end-to-end solution to onboard 1.5 million FirstNet customers.
 
-Mitigated million-dollar revenue loss through product updates addressing fraudulent device purchases.
+* Mitigated million-dollar revenue loss through product updates addressing fraudulent device purchases.
 
-Improved customer experience for lost shipped devices through product updates.
+* Improved customer experience for lost shipped devices through product updates.
 
 **Product Owner**
 
@@ -79,11 +79,11 @@ standards. Resolved cross-application dependencies and recommended technical inv
 
 **Key Contributions:**
 
-Ensured a clear understanding of project requirements among developers.
+* Ensured a clear understanding of project requirements among developers.
 
-Improved product quality and delivery efficiency through meticulous backlog management.
+* Improved product quality and delivery efficiency through meticulous backlog management.
 
-Collaborated with RTE to reduce technical debt and optimize product architecture.
+* Collaborated with RTE to reduce technical debt and optimize product architecture.
 
 **System Analyst**
 
