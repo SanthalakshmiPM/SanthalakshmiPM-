@@ -2,6 +2,11 @@
 
 linkedin.com/in/santhalakshmi
 
+<a href="https://linkedin.com/your/profile/url" class="social-icon si-rounded si-small si-linkedin">
+    <i class="icon-linkedin"></i>
+    <i class="icon-linkedin"></i>
+ </a>
+
 # Summary
 
 
