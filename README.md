@@ -18,11 +18,11 @@ communication skills, fostering collaborative environments and building stakehol
 
 **Product Management:** Product Development, Road mapping & Release Planning, Product Prioritization, Customer
 Research, Data Analysis, Requirement Analysis, Business & Product Vision Alignment
-Agile Expertise: Product Owner, Scrum Master, Sprint & Release Planning, User Stories, Backlog Management,
+**Agile Expertise:** Product Owner, Scrum Master, Sprint & Release Planning, User Stories, Backlog Management,
 Daily Standups, Retrospectives
-Leadership & Collaboration: Cross-functional Team Leadership, Communication & Negotiation, Hosting Training
+**Leadership & Collaboration:** Cross-functional Team Leadership, Communication & Negotiation, Hosting Training
 Sessions, Stakeholder Management
-Technical Acumen: Software Development & Testing, SDLC Methodologies, Integrations & Innovation, AWS
+**Technical Acumen:** Software Development & Testing, SDLC Methodologies, Integrations & Innovation, AWS
 Cloud Services, Google Cloud Platform
 
 **Experience**
