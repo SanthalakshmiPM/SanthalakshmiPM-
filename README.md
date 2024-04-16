@@ -95,7 +95,7 @@ Accenture
 Oct 2003 - Dec 2009 (6 years 3 months)
 
 Roles and Responsibilities
-* Team lead
+* Java Development lead and Scrum Master
 * Full-stack Java developer
 
 # Education
