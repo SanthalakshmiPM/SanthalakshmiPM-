@@ -1,7 +1,5 @@
 # Santhalakshmi Ananthakrishnan
 
-<https://www.linkedin.com/in/santhalakshmi>
-
 <p>
   <a href="https://www.linkedin.com/santhalakshmi" rel="nofollow noreferrer">
     <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
