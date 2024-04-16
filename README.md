@@ -3,7 +3,7 @@ Santhalakshmi Ananthakrishnan
 
 linkedin.com/in/santhalakshmi
 
-#Summary
+# Summary
 **Summary**
 
 **Technical Product Manager**
