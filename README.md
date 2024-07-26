@@ -107,11 +107,11 @@ Oct 2003 - Dec 2009 (6 years 3 months)
 
 **Licenses & Certifications**
 
+Certified SAFe Agile Product owner/Product Manager
+
 Certified Product Owner 
 
 Certified Scrum Professional®-ScrumMaster
-
-Certified SAFe Agile Product owner/Product Manager
 
 # Skills
 
