@@ -111,6 +111,8 @@ Certified Product Owner
 
 Certified Scrum Professional®-ScrumMaster
 
+Certified SAFe Agile Product owner/Product Manager
+
 # Skills
 
 • Product Management   •  Product Development   •  Product Design   •  Product Launch   •  Strategic Planning  •  Strategic Roadmaps  •  Data Analysis & Metrics  • Customer Acquisition   •  Telecommunications   •  Agile & Waterfall Methodologies  •  Cross-functional Team Leadership
